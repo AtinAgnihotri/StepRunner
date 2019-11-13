@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BG
+  - Step
+  - Gameplay
+  - Undefined
+  - Sandy
+  - MainMenu
+  - Credits
+  - Options
+  - CanvasSlider
+  - Coin
+  - Life
+  - Bounds
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 3604686395
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Gameplay
+    uniqueID: 2716018817
+    locked: 0
+  - name: UI
+    uniqueID: 81798939
+    locked: 0
+  - name: Fader
+    uniqueID: 2973585617
+    locked: 0
