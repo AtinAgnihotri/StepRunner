@@ -2,6 +2,9 @@
 [Tt]emp/
 [Oo]bj/
 Assets/AssetStoreTools*
+Assets/GoogleMobileAds*
+Assets/PlayServicesResolver*
+Assets/Plugins*
 
 # Visual Studio cache directory
 .vs/
